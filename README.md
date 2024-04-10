@@ -1,4 +1,4 @@
-# Modern Login
+# Landing Page DigitalMedia
 
  ![preview](./DigitalMedia.PNG)
  
